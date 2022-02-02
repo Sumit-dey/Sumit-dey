@@ -1,5 +1,4 @@
-### Hello World 👋 I'm Sumit.
-I am a Full-stack software Engineer. I am passionate about Problem solving and software developing. I enjoy entire process of building apps from designing and building a road map of were I want to go to being able to hit those goals and have a product I'm proud of.
+
 
 <!--
 **Sumit-dey/Sumit-dey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hello World 👋 I'm Sumit.
+I am a Full-stack software Engineer. I am passionate about Problem solving and software developing. I enjoy entire process of building apps from designing and building a road map of were I want to go to being able to hit those goals and have a product I'm proud of. 
+
 ### Things I use every day
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -55,3 +59,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="GitHub" wid h="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
