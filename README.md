@@ -1,5 +1,3 @@
-
-
 <!--
 **Sumit-dey/Sumit-dey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 [![](https://github-readme-stats.vercel.app/api?username=Sumit-dey&count_private=true&theme=tokyonight)](https://github.com/Sumit-dey/github-readme-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-dey&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages)](https://github.com/Sumit-dey/github-readme-stats)
-
+<br />
 ### Hello World 👋 I'm Sumit.    
 I am a Full-stack software Engineer. I am passionate about Problem solving and software developing. I enjoy entire process of building apps from designing and building a road map of were I want to go to being able to hit those goals and have a product I'm proud of. 
 
@@ -36,7 +34,7 @@ I am a Full-stack software Engineer. I am passionate about Problem solving and s
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
-<br />
+
 ### Lets connect
 
 <a href="https://www.linkedin.com/in/sumit-dey-a27349114/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
