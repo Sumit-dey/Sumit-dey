@@ -38,5 +38,6 @@ I am a Full-stack software Engineer. I am passionate about Problem solving and s
 <br />
 <br />
 ### Lets connect
- <a href="https://www.linkedin.com/in/sumit-dey-a27349114/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+
+<a href="https://www.linkedin.com/in/sumit-dey-a27349114/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
  
