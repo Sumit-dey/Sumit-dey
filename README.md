@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://github-readme-stats.vercel.app/api?username=Sumit-dey&count_private=true&theme=tokyonight)](https://github.com/Sumit-dey/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-dey&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages)](https://github.com/Sumit-dey/github-readme-stats)
 <br />
 ### Hello World 👋 I'm Sumit.    
 I am a Full-stack software Engineer. I am passionate about Problem solving and software developing. I enjoy entire process of building apps from designing and building a road map of were I want to go to being able to hit those goals and have a product I'm proud of. 
@@ -39,3 +37,5 @@ I am a Full-stack software Engineer. I am passionate about Problem solving and s
 
 <a href="https://www.linkedin.com/in/sumit-dey-a27349114/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href="mailto:deysumit417@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
  
+[![](https://github-readme-stats.vercel.app/api?username=Sumit-dey&count_private=true&theme=tokyonight)](https://github.com/Sumit-dey/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-dey&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages)](https://github.com/Sumit-dey/github-readme-stats)
