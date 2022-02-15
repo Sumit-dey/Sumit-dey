@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br />
 ### Hello World 👋 I'm Sumit.    
 I am a Full-stack software Engineer. I am passionate about Problem solving and software developing. I enjoy entire process of building apps from designing and building a road map of were I want to go to being able to hit those goals and have a product I'm proud of. 
 
@@ -39,3 +38,4 @@ I am a Full-stack software Engineer. I am passionate about Problem solving and s
  
 [![](https://github-readme-stats.vercel.app/api?username=Sumit-dey&count_private=true&theme=tokyonight)](https://github.com/Sumit-dey/github-readme-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-dey&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages)](https://github.com/Sumit-dey/github-readme-stats)
+<br />
